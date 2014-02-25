@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>Nødnummer</string>
+		<key>phone_number</key>
+		<string>64812911</string>
+		<key>display_number</key>
+		<string>+47 64 81 29 11</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Driftssentralen brann</string>
+		<key>phone_number</key>
+		<string>64813800</string>
+		<key>display_number</key>
+		<string>+47 64 81 38 00</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Driftssentralen sikkerhet</string>
+		<key>phone_number</key>
+		<string>64813700</string>
+		<key>display_number</key>
+		<string>+47 64 81 37 00</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Driftssentralen teknisk</string>
+		<key>phone_number</key>
+		<string>64813600</string>
+		<key>display_number</key>
+		<string>+47 64 81 36 00</string>
+		<key>description</key>
+		<string>CDM management center</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Driftskoordinator Terminal</string>
+		<key>phone_number</key>
+		<string>64813535</string>
+		<key>display_number</key>
+		<string>+47 64 81 35 35</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Ass. Driftskoordinator</string>
+		<key>phone_number</key>
+		<string>97088881</string>
+		<key>display_number</key>
+		<string>+47 97 08 88 81</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Passasjerservice</string>
+		<key>phone_number</key>
+		<string>64810002</string>
+		<key>display_number</key>
+		<string>+47 64 81 00 02</string>
+		<key>description</key>
+		<string>OSLs informasjonsskranke på ankomst</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Renhold/ISS</string>
+		<key>phone_number</key>
+		<string>64823100</string>
+		<key>display_number</key>
+		<string>+47 64 82 31 00</string>
+		<key>description</key>
+		<string>Renhold alle fellesarealer i Terminalen</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Tralletjenesten/ISS</string>
+		<key>phone_number</key>
+		<string>64810431</string>
+		<key>display_number</key>
+		<string>+47 64 81 04 31</string>
+		<key>description</key>
+		<string>Rydding av traller</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Assistansetjenesten/RFS</string>
+		<key>phone_number</key>
+		<string>64821760</string>
+		<key>display_number</key>
+		<string>+47 64 82 17 60</string>
+		<key>description</key>
+		<string>Assistanse, rullestoler etc.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Hittegods/ABSS</string>
+		<key>phone_number</key>
+		<string>64813477</string>
+		<key>display_number</key>
+		<string>+47 64 81 34 77</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Politiet</string>
+		<key>phone_number</key>
+		<string>64819500</string>
+		<key>display_number</key>
+		<string>+47 64 81 95 00</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Tollvesenet</string>
+		<key>phone_number</key>
+		<string>64821027</string>
+		<key>display_number</key>
+		<string>+47 64 82 10 27</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Airport Patrol</string>
+		<key>phone_number</key>
+		<string>64813650</string>
+		<key>display_number</key>
+		<string>+47 64 81 36 50</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Plasstjenesten</string>
+		<key>phone_number</key>
+		<string>64812480</string>
+		<key>display_number</key>
+		<string>+47 64 81 24 80</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Flyparkering</string>
+		<key>phone_number</key>
+		<string>64813050</string>
+		<key>display_number</key>
+		<string>+47 64 81 30 50</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>G4S</string>
+		<key>phone_number</key>
+		<string>64823113</string>
+		<key>display_number</key>
+		<string>+47 64 82 31 13</string>
+	</dict>
+</array>
+</plist>
